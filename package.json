@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Blank HTML5 page with blank CSS and JS files.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sime/starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sime/starter/issues"
+  },
+  "homepage": "https://github.com/sime/starter#readme",
+  "dependencies": {
+    "identicon": "^2.0.1",
+    "to-ico": "^1.0.1"
+  }
+}
